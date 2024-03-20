@@ -2,7 +2,8 @@
     "manifest": {
         "author": "starless.5338",
         "name": "FALLOUT TERMINAL",
-        "version": "1.0.0"
+        "version": "1.0.0",
+        "updater": "https:\/\/raw.githubusercontent.com\/Starless-5338\/Aliucord-theme_Fallout-terminal\/main\/FALLOUT_TERMINAL.json"
     },
     "background": {},
     "fonts": {
